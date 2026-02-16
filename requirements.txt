@@ -1,2 +1,10 @@
-
-streamlit==1.24.0
+transformers
+datasets
+nltk
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+torch
+streamlit
